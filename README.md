@@ -1,4 +1,6 @@
-# kickstart.nvim
+# My Neovim config
+
+This is a fork of kickstart.nvim.
 
 ## Introduction
 
